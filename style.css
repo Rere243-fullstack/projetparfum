@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    display: flex;
+    align-items: center;
+    font-style: italic;
+}
+.header_nav{
+    justify-content: space-between;
+    text-decoration: none;
+    flex-direction: column;
+    gap: 20px;
+}
